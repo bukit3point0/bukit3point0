@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Connie</h1>
 <h3 align="center">I'm a full stack web developer with a passion for nerdy things.</h3>
 
-- 🔭 I’m currently working on [Spooky Creators](https://github.com/bukit3point0/spooky-empire-client) and its [API](https://github.com/bukit3point0/spooky-empire-creators-track-api)
+- 🔭 I’m currently working on [Spooky Creators](https://github.com/bukit3point0/spooky-empire-client) and its [API](https://github.com/bukit3point0/spooky-empire-creators-track-api) ([check out the live product here](http://www.spookycreators.com))
 
 - 👨‍💻 All of my projects are available at [www.conniereynolds.dev](www.conniereynolds.dev)
 
