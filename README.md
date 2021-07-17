@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spooky Creators](https://github.com/bukit3point0/spooky-empire-client) and its [API](https://github.com/bukit3point0/spooky-empire-creators-track-api) ([check out the live product here](http://www.spookycreators.com))
 
-- 👨‍💻 All of my projects are available at [www.conniereynolds.dev](www.conniereynolds.dev)
+- 👨‍💻 My portfolio is available [here](http://conniereynolds.dev)
 
 - ⚡ Fun fact: **I write horror short stories and comics.**
 
